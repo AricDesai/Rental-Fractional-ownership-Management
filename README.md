@@ -1,3 +1,4 @@
+
 # NFT Real Estate – Rental & Fractional Ownership Management (Algorand)
 
 This project implements fractional real estate ownership and rental income distribution using Algorand Standard Assets (ASA) and PyTeal smart contracts.
